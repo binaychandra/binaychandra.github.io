@@ -1,13 +1,11 @@
-# Binay Chandra - Data Science Specialist
+# Data Scientist
 
-![Binay Chandra](link_to_your_profile_picture)
-
-## About Me
-I am Binay Chandra, a Data Science Specialist based in Dwarka, New Delhi. With a background in Statistics, Machine Learning, and Cloud Computing, I thrive in Agile-based development environments.
-
-- **LinkedIn:** [Binay Chandra](https://linkedin.com/in/binaychandra)
-- **Email:** [binaychandra90@gmail.com](mailto:binaychandra90@gmail.com)
-- **Phone:** +(91) 727 640 9096
+## Professional Summary
+- Experience with Agile based development environment with algorithm design, implementation, integration and testing.
+- Proficient with programming languages Python, MATLAB, C, C#.Net and databases like SQL and Bigquery.
+- Strong background in Statistics, Machine Learning, Deep Learning and Cloud based computing.
+- Experience in Big Data analytics using Spark and visualization using BI tools like Tableau.
+- Self-starter, highly motivated, fast learner, and a team player with strong personal and group communication skills.
 
 ## Skills
 - **Programming Languages:** Python, MATLAB, C, C#.Net
