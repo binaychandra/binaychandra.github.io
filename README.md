@@ -1,29 +1,23 @@
 # Data Scientist
 
 ## Professional Summary
-- Experience with Agile based development environment with algorithm design, implementation, integration and testing.
-- Proficient with programming languages Python, MATLAB, C, C#.Net and databases like SQL and Bigquery.
-- Strong background in Statistics, Machine Learning, Deep Learning and Cloud based computing.
-- Experience in Big Data analytics using Spark and visualization using BI tools like Tableau.
-- Self-starter, highly motivated, fast learner, and a team player with strong personal and group communication skills.
+Data Science leader with 12+ years of experience driving impactful insights and solutions across diverse industries. Proven expertise in building and deploying AI models, data pipelines, and real-time analytics platforms to optimize operations, boost ROI, and empower decision-making. Adept at leveraging cutting-edge technologies like Generative AI, Spark, and NLP to tackle complex challenges in HR, e-commerce, and automotive sectors. Passionate about mentoring and knowledge sharing, fostering a collaborative environment for data-driven success.
 
 ## Skills
 - **Programming Languages:** Python, MATLAB, C, C#.Net
 - **Databases:** SQL, Google BigQuery
-- **Frameworks:** PySpark, Scikit-Learn, Tensorflow, Pytorch
-- **Cloud:** Google Cloud Platform (GCP)
+- **Frameworks:** PySpark, Scikit-Learn, Pytorch, Tensorflow
+- **Cloud:** Microsoft Azure, Google Cloud Platform (GCP)
 
 ## Experience
 
-### Ernst & Young, Gurgaon
-*Sep 2022 - Present*
+### Ernst & Young, Gurgaon (*Sep 2022 - Present*)
 
 - Streamlined HR data analysis by architecting and implementing Azure-based setup and Databricks pipelines, creating an end-to-end automated framework for data-driven decision making.
 - Utilized Generative AI (GenAI) to tackle complex HR challenges, such as efficiently generating graphs and visualizations for deeper understanding of workforce trends.
 - Mentored colleagues on Apache Spark and other relevant tech stacks, empowering them to unlock the potential of data analytics for HR initiatives.
 
-### PUBLICIS SAPIENT, Bengaluru
-*Jul 2018 - Sep 2022*
+### Publicis Sapient, Bengaluru (*Jul 2018 - Sep 2022*)
 
 - Spearheaded the development of a Spark-powered processing engine for e-commerce data, delivering real-time insights to empower marketers. Implemented cutting-edge image and NLP algorithms to extract critical business metrics.
 - Developed an ensemble model with Fbprophet and BQML that boosted booking accuracy by 20%. Deep-dived into COVID's impact on reservations, providing actionable insights for strategic decision-making.
@@ -42,6 +36,8 @@
 - **B.Tech | Electronics and TeleCommunication, Bharati Vidyapeeth University, Pune (2011) | Percentage: 70.4%**
 
 ## Certifications
+- Generative AI with Large Language Models from Coursera(2024)
+- SafeAgile 5 Certification
 - Apache Spark 3 - Spark Programming in Python @Udemy (2021)
 - Apache Airflow | A Real-Time & Hands-on Course on Airflow @Udemy (2020)
 - Deep Learning with TensorFlow @Coursera (2019)
