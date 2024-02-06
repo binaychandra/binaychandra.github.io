@@ -14,12 +14,18 @@
 - **Cloud:** Google Cloud Platform (GCP)
 
 ## Experience
-### Commerce Intelligence, PUBLICIS SAPIENT, Bengaluru
-*March 2021 - Present*
+### PUBLICIS SAPIENT, Bengaluru
+*Jul 2018 - Sep 2022*
 
-- Developed a Spark application for processing e-commerce data and presenting performance metrics.
-- Led the scoring track, developing Image and NLP algorithms for metric calculation.
-- Optimized application performance with Spark-BQ connector, reducing execution time by 50%.
+- Spearheaded the development of a Spark-powered processing engine for e-commerce data, delivering real-time insights to empower marketers. Implemented cutting-edge image and NLP algorithms to extract critical business metrics.
+
+- Developed an ensemble model with Fbprophet and BQML that boosted booking accuracy by 20%. Deep-dived into COVID's impact on reservations, providing actionable insights for strategic decision-making.
+
+- Pioneered a Django-based voice assistant system that offered seamless control over news, music, and food orders. Leveraged Dialogflow and other APIs to understand user intent and deliver personalized experiences. 
+
+- Maximized marketing ROI by 20% with AI-powered revenue prediction model, optimizing channel allocation based on key performance drivers.
+
+- Utilized computer vision to extract hidden insights from ad creatives, uncovering hidden performance drivers and developing a machine learning model that offered actionable recommendations, maximizing ad campaign effectiveness.
 
 *(Additional experiences can be added similarly.)*
 
