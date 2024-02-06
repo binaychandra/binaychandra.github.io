@@ -13,5 +13,5 @@ css: |
 
   .navigation {
     background-color: #444; /* Replace with your desired background color */
-    color: #fff; /* Replace with your desired text color */
+    color: #222; /* Replace with your desired text color */
   }
