@@ -32,8 +32,8 @@ Data Science leader with 12+ years of experience driving impactful insights and 
 - Designed and implemented a MapReduce algorithm in MATLAB to extract and integrate vehicle data from various file formats with DotNet and SQL, achieving a 95% optimization in processing speed. Received Six Sigma Yellow belt certification for the idea.
 
 ## Education
-- M.Tech | VLSI and Embedded Systems, Pune University (2016) | CGPA:8.34
-- B.Tech | Electronics and TeleCommunication, Bharati Vidyapeeth University, Pune (2011) | Percentage: 70.4%
+- **M.Tech** (VLSI and Embedded systems) from Pune University, India
+- **B.Tech** (Electronics and TeleCommunication) from Bharati Vidyapeeth University, Pune, India
 
 ## Certifications
 - Generative AI with Large Language Models from Coursera(2024)
