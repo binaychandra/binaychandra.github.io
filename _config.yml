@@ -1,17 +1,5 @@
 title: Binay Chandra
 logo: /assets/img/profile-pic.png
-description: text below image
+description: AI and Data Analytics Professional | Driving Business Intelligence
 show_downloads: true
 theme: jekyll-theme-minimal
-
-# Custom CSS
-css: |
-  header {
-    background-color: #333; /* Replace with your desired background color */
-    color: #fff; /* Replace with your desired text color */
-  }
-
-  .navigation {
-    background-color: #444; /* Replace with your desired background color */
-    color: #222; /* Replace with your desired text color */
-  }
