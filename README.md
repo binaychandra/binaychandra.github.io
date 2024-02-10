@@ -13,14 +13,14 @@ Data Science leader with 12+ years of experience driving impactful insights and 
 
 ### Ernst & Young, Gurgaon (*Sep 2022 - Present*)
 
-- Streamlined HR data analysis by architecting and implementing Azure-based setup and Databricks pipelines, creating an end-to-end automated framework for data-driven decision making. **[Demo]**(https://datasense-2be7.onrender.com/)
+- Streamlined HR data analysis by architecting and implementing Azure-based setup and Databricks pipelines, creating an end-to-end automated framework for data-driven decision making. [**Demo**](https://datasense-2be7.onrender.com/)
 - Utilized Generative AI (GenAI) to tackle complex HR challenges, such as efficiently generating graphs and visualizations for deeper understanding of workforce trends.
 - Mentored colleagues on Apache Spark and other relevant tech stacks, empowering them to unlock the potential of data analytics for HR initiatives.
 
 ### Publicis Sapient, Bengaluru (*Jul 2018 - Sep 2022*)
 
 - Spearheaded the development of a Spark-powered processing engine for e-commerce data, delivering real-time insights to empower marketers. Implemented cutting-edge image and NLP algorithms to extract critical business metrics.
-- Developed an ensemble model with Fbprophet and BQML that boosted booking accuracy by 20%. Deep-dived into COVID's impact on reservations, providing actionable insights for strategic decision-making. **[Demo]**(https://insightsreporter.onrender.com/)
+- Developed an ensemble model with Fbprophet and BQML that boosted booking accuracy by 20%. Deep-dived into COVID's impact on reservations, providing actionable insights for strategic decision-making. [**Demo**](https://insightsreporter.onrender.com/)
 - Pioneered a Django-based voice assistant system that offered seamless control over news, music, and food orders. Leveraged Dialogflow and other APIs to understand user intent and deliver personalized experiences. 
 - Maximized marketing ROI by 20% with AI-powered revenue prediction model, optimizing channel allocation based on key performance drivers.
 - Utilized computer vision to extract hidden insights from ad creatives, uncovering hidden performance drivers and developing a machine learning model that offered actionable recommendations, maximizing ad campaign effectiveness.
