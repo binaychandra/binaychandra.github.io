@@ -13,7 +13,7 @@ Data Science leader with 12+ years of experience driving impactful insights and 
 
 ### Ernst & Young, Gurgaon (*Sep 2022 - Present*)
 
-- Streamlined HR data analysis by architecting and implementing Azure-based setup and Databricks pipelines, creating an end-to-end automated framework for data-driven decision making. [**Demo**](https://datasense-2be7.onrender.com/)
+- Streamlined HR data analysis by architecting and implementing Azure-based setup and Databricks pipelines, creating an end-to-end automated framework for data-driven decision making. [**[Demo]**](https://datasense-2be7.onrender.com/)
 - Utilized Generative AI (GenAI) to tackle complex HR challenges, such as efficiently generating graphs and visualizations for deeper understanding of workforce trends.
 - Mentored colleagues on Apache Spark and other relevant tech stacks, empowering them to unlock the potential of data analytics for HR initiatives.
 
